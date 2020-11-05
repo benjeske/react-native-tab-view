@@ -500,7 +500,7 @@ const styles = StyleSheet.create({
     overflow: Platform.select({ default: 'scroll', web: undefined }),
   },
   tabBar: {
-    backgroundColor: '#2196f3',
+    backgroundColor: '#00BA40',
     elevation: 4,
     shadowColor: 'black',
     shadowOpacity: 0.1,
